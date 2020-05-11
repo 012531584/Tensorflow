@@ -1,4 +1,5 @@
-The traffic.mp4 file is from the github link : https://github.com/OlafenwaMoses/ImageAI/tree/master/data-videos <br/>
-Use OpenCV or a library of your choice to split it into frames, perform object detection and save the processed video. 
+Using a pre-trained object detection model from Tensorflow to detect a video <br/>
+Applying cv2 library to split the video into 2114 frames, then perform object detection on first 200 frames, 
+and store it as a gif file. 
 <br/>
-Upload a GIF of your output video along with the code to canvas.
+The traffic.mp4 file is from the github link : https://github.com/OlafenwaMoses/ImageAI/tree/master/data-videos
